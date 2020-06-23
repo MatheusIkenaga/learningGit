@@ -11,7 +11,7 @@ Este repositório serve de exemplo para o curso de Git e GitHub
 		<i>git add . </i></li>
 	<li>Register the commit with all the files used in "git add ." <br/>
 		<i>git commit -m "[message]"</i></li>
-	<li>Verify status if needs to add and commit some file
+	<li>Verify status if needs to add and commit some file <br />
 		<i>git status</i></li>
-	<li>Verify latest created commits
+	<li>Verify latest created commits <br />
 		<i>git log</i></li>
