@@ -14,4 +14,4 @@ Este repositório serve de exemplo para o curso de Git e GitHub
 	<li>Verify status if needs to add and commit some file <br />
 		** git status **</li>
 	<li>Verify latest created commits <br />
-		** git log **</li>
+		<b><i>git log</i></b></li>
