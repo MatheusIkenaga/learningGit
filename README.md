@@ -8,10 +8,10 @@ Este repositório serve de exemplo para o curso de Git e GitHub
 
 <ul>
 	<li>Add new files and modified for the next commit <br/>
-		<i>git add . </i></li>
+		<i><b>- git add . </b></i></li>
 	<li>Register the commit with all the files used in "git add ." <br/>
-		<i>git commit -m "[message]"</i></li>
+		<i><b>- git commit -m "[message]"</b></i></li>
 	<li>Verify status if needs to add and commit some file <br />
-		<i>git status</i></li>
+		<i><b>- git status</b></i></li>
 	<li>Verify latest created commits <br />
-		<i>git log</i></li>
+		<i><b>- git log</b></i></li>
