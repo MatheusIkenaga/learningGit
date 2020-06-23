@@ -4,7 +4,7 @@ Este repositório serve de exemplo para o curso de Git e GitHub
 
 ![Git_Image](./gitimage.png)
 
-#commands
+<b>Commands</b>
 
 <ul>
 	<li>Add new files and modified for the next commit <br/>
