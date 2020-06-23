@@ -1,10 +1,10 @@
 # Learning Git
 
-Este repositório serve de exemplo para o curso de Git e GitHub
+I am using this repo to learn and use as a example for Git and GitHub course
 
 ![Git_Image](./gitimage.png)
 
-<b>Commands</b>
+<b>Commands: </b>
 
 <ul>
 	<li>Add new files and modified for the next commit <br/>
