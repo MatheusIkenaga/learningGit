@@ -10,5 +10,4 @@ Este repositório serve de exemplo para o curso de Git e GitHub
 	<li>Add new files and modified for the next commit <br/>
 		git add . </li>
 	<li>Register the commit with all the files used in "git add ." <br/>
-	git commit -m ""</li>
-	
+	<i>git commit -m "" </i></li>
