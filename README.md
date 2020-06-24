@@ -25,6 +25,15 @@ I am using this repo to learn and use as a example for Git and GitHub course
 		<b><i>git checkout -- [file]</i></b>
 			or 	 
 		<b><i>git checkout -- .</i></b></li><br/>
-
+	<li>If already added modifications to stage<br />
+		<b><i>git checkout HEAD -- [file]</i></b></li><br/>
+	<li>crate a new commit reverting another commit especified<br />
+		<b><i>git revert [commit]</i></b></li><br/>
+	<li>Reset repo for determined commit<br />
+		<b><i>git reset [commit]</i></b></li><br/>
+	<li>REMOVE ALL MODIFICATIONS (BE F#CKING CAREFULL)<br />
+		<b><i>git reset --hard [commit]</i></b><br/>
+		--hard (delete the modifications in files)<br/>
+		--soft (keep the modifications in files)</li>
 </ul>		
 		
