@@ -14,4 +14,10 @@ I am using this repo to learn and use as a example for Git and GitHub course
 	<li>Verify status if needs to add and commit some file <br />
 		<b><i>git status</i></b></li><br/>
 	<li>Verify latest created commits <br />
-		<b><i>git log</i></b></li><br/>
+		<b><i>git log</i></b></li><br/><br />
+	<li>Clone repo <br />
+		<b><i>git clone [url]</i></b></li><br/>
+	<li>Download updates <br />
+		<b><i>git pull [url]</i></b></li><br/>
+	<li>Navegate in commits<br />
+		<b><i>git checkout [commit] [file]</i></b></li><br/>
