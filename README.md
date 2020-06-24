@@ -21,3 +21,7 @@ I am using this repo to learn and use as a example for Git and GitHub course
 		<b><i>git pull [url]</i></b></li><br/>
 	<li>Navegate in commits<br />
 		<b><i>git checkout [commit] [file]</i></b></li><br/>
+	<li>Undo modifications that aren't in stage<br />
+		<b><i>git checkout -- [file]</i></b><br/>
+		<b>or</b><br/>
+		<b><i>git checkout -- .</i></b></li>><br/>
