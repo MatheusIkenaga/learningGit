@@ -35,5 +35,11 @@ I am using this repo to learn and use as a example for Git and GitHub course
 		<b><i>git reset --hard [commit]</i></b><br/>
 		--hard (delete the modifications in files)<br/>
 		--soft (keep the modifications in files)</li>
+	<li>crate a new branch<br />
+		<b><i>git branch [branch_name]</i></b></li><br/>
+	<li>Delete a branch<br />
+		<b><i>git branch -d [branch_name]</i></b></li><br/>
+	<li>Change branch<br />
+		<b><i>git checkout [branch_name]</i></b></li><br/>
 </ul>		
 		
