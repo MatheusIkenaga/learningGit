@@ -41,5 +41,6 @@ I am using this repo to learn and use as a example for Git and GitHub course
 		<b><i>git branch -d [branch_name]</i></b></li><br/>
 	<li>Change branch<br />
 		<b><i>git checkout [branch_name]</i></b></li><br/>
+		
 </ul>		
 		
