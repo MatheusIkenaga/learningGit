@@ -45,7 +45,9 @@ I am using this repo to learn and use as a example for Git and GitHub course
 		<b><i>git push --set-upstream origin [branch_name]</i></b>
 			or
 		<b><i>git push -u origin [branch_name]</i></b></li><br/>
-		
+	<li>Merge branch (remember to be where you want to merge)<br />
+		<b><i>git merge [branch_name]</i></b></li><br/>
+
 		
 </ul>		
 		
