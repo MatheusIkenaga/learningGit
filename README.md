@@ -41,6 +41,11 @@ I am using this repo to learn and use as a example for Git and GitHub course
 		<b><i>git branch -d [branch_name]</i></b></li><br/>
 	<li>Change branch<br />
 		<b><i>git checkout [branch_name]</i></b></li><br/>
+	<li>First push in new branch<br />
+		<b><i>git push --set-upstream origin [branch_name]</i></b>
+			or
+		<b><i>git push -u origin [branch_name]</i></b></li><br/>
+		
 		
 </ul>		
 		
