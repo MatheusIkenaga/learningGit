@@ -51,6 +51,10 @@ I am using this repo to learn and use as a example for Git and GitHub course
 		<b><i>git merge [branch_name]</i></b></li><br/>
 	<li>Rebase branch (remember to be where you want to "delete")<br />
 		<b><i>git rebase [destine_branch_name]</i></b></li><br/>
+	<li>If you have an unupdated repo and already made a commit<br />
+		<b><i>git fetch<br/>
+			  git rebase</i></b></li><br/>
+	
 		
 </ul>		
 		
