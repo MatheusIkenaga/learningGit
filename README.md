@@ -45,7 +45,7 @@ I am using this repo to learn and use as a example for Git and GitHub course
 		<b><i>git checkout [branch_name]</i></b></li><br/>
 	<li>First push in new branch<br />
 		<b><i>git push --set-upstream origin [branch_name]</i></b>
-			or
+			<br/>or<br/>
 		<b><i>git push -u origin [branch_name]</i></b></li><br/>
 	<li>Merge branch (remember to be where you want to merge)<br />
 		<b><i>git merge [branch_name]</i></b></li><br/>
@@ -54,7 +54,7 @@ I am using this repo to learn and use as a example for Git and GitHub course
 	<li>If you have an unupdated repo and already made a commit<br />
 		<b><i>git fetch<br/>
 			  git rebase</i></b></li><br/>
-	<li>Define a version of your project (dont receive commits anymore)<br />
+	<li>Define a version of your project (don't receive commits anymore)<br />
 		<b><i>git tag [tag_name]<br/>
 			  git push [remote] [tag]</i></b></li><br/>
 		
