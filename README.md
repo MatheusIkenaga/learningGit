@@ -54,7 +54,9 @@ I am using this repo to learn and use as a example for Git and GitHub course
 	<li>If you have an unupdated repo and already made a commit<br />
 		<b><i>git fetch<br/>
 			  git rebase</i></b></li><br/>
-	
+	<li>Define a version of your project (dont receive commits anymore)<br />
+		<b><i>git tag [tag_name]<br/>
+			  git push [remote] [tag]</i></b></li><br/>
 		
 </ul>		
 		
