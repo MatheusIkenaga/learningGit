@@ -49,7 +49,8 @@ I am using this repo to learn and use as a example for Git and GitHub course
 		<b><i>git push -u origin [branch_name]</i></b></li><br/>
 	<li>Merge branch (remember to be where you want to merge)<br />
 		<b><i>git merge [branch_name]</i></b></li><br/>
-
+	<li>Rebase branch (remember to be where you want to "delete")<br />
+		<b><i>git rebase [destine_branch_name]</i></b></li><br/>
 		
 </ul>		
 		
