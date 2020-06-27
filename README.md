@@ -37,6 +37,8 @@ I am using this repo to learn and use as a example for Git and GitHub course
 		--soft (keep the modifications in files)</li>
 	<li>crate a new branch<br />
 		<b><i>git branch [branch_name]</i></b></li><br/>
+	<li>crate a new branch and already go to it<br />
+		<b><i>git checkout -b [branch_name]</i></b></li><br/>
 	<li>Delete a branch<br />
 		<b><i>git branch -d [branch_name]</i></b></li><br/>
 	<li>Change branch<br />
